@@ -1,6 +1,5 @@
 ### What is Relational Database ?
-
-    A relational database is a type of database where data is organized into tables with rows and columns, and these tables are linked together using Primary Keys and Foreign Keys.Its called relation. Data validity is ensured through schemas and constraints (such as data types, NOT NULL, UNIQUE, FK, and CHECK). It keeps transactions safe by following ACID properties (Atomicity, Consistency, Isolation, Durability). Redundancy can be reduced through normalization, while SQL allows for powerful querying, including JOINs. Since core SQL is nearly the same across all relational databases, learning one makes it easy to master the others, even though each has its own specific dialect.
+A relational database is a type of database where data is organized into tables with rows and columns, and these tables are linked together using Primary Keys and Foreign Keys.Its called relation. Data validity is ensured through schemas and constraints (such as data types, NOT NULL, UNIQUE, FK, and CHECK). It keeps transactions safe by following ACID properties (Atomicity, Consistency, Isolation, Durability). Redundancy can be reduced through normalization, while SQL allows for powerful querying, including JOINs. Since core SQL is nearly the same across all relational databases, learning one makes it easy to master the others, even though each has its own specific dialect.
 
 
 ## SQL Data Types
