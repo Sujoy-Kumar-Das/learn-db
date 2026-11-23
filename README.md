@@ -72,7 +72,7 @@ Used to do calculations.
 | `LIKE` | `a LIKE pattern` | `name LIKE 'Wire%'` | Matches a text pattern. Case sensitive |
 | `ILIKE` | `a ILIKE pattern` | `name ILIKE 'laptop%'` | Same as `LIKE`, but ignores upper and lower case. Only in PostgreSQL |
 
-### 5. NULL Operators
+### 5. NULL Operators.
 
 | Operator | Syntax | Example | Meaning |
 |---|---|---|---|
